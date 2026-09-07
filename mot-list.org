@@ -8,7 +8,7 @@
 |------------------------------------------------+--------------------------------+---+---+---+---|
 | Vous voulez mattere du lait dans une voiture ? | You want to put milke in to the car? |   |   |   |   |
 | vous n'allez pas bien                          | you are not doing well         |   |   |   |   |
-| Vous devez matter de l'essence                 | you must put in some gas       |   |   |   |   |
+| Vous devez matter de l'essence                 | You have to watch gasoline       |   |   |   |   |
 | mais non                                       |                                |   |   |   |   |
 |                                                |                                |   |   |   |   |
 |------------------------------------------------+--------------------------------+---+---+---+---|
