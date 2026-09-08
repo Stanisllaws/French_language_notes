@@ -1,4 +1,4 @@
-*** Fraçais Vocabular    /
+*** Fraçais Vocabular    
 
 [ spred sheet C-c |  ]   [ C-\ fr]
 
