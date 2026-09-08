@@ -1,0 +1,42 @@
+**** La phrase du français
+
+Input method: french-keyboard
+
+| la phrase du fran                                  | Traductio |                      |           |   |
+|----------------------------------------------------+-----------+----------------------+-----------+---|
+| Je vais déjeuner.                                  |           |                      |           |   |
+| "Vous_allez déjeuner avec vos_amis au restaurant." |           | Vous-allez déjeuner? | vos -your |   |
+| "Tu vas déjeuner à la maison aujourd'hui?"         |           | tu vas déjeuner      |           |   |
+| "Où allez-vous déjeuner ?                          |           | Vous-allez déjeuner? |           |   |
+| "Où vas-tu déjeuner ?"                             |           |                      |           |   |
+| "Où vais-je, maman ?"                              |           |                      |           |   |
+| "Nous allons dans un bon restaurant."              |           |                      |           |   |
+| "Elle va à Nice."                                  |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           | Il est midi          |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+|                                                    |           |                      |           |   |
+
