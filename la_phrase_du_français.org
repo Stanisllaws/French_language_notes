@@ -16,10 +16,10 @@ Input method: french-keyboard
 | "Elle va à Nice."                                             |           |                      |                              |                                 |
 |                                                               |           | Il est midi          |                              |                                 |
 | Où est le livre ?                                             |           |                      |                              |                                 |
-| le livre est sur la table.                                    |           |                      | " sur" - nad                 | M                               |
-| Le liver est sous la table.                                   |           |                      | "sous" -pod                  | M                               |
-| "Le crayon est sur le sol."                                   |           |                      | "sol" -podłaga               | F                               |
-|                                                               |           |                      |                              |                                 |
+| le livre est sur la table.                                    |           | l'oiseau -ptak       | " sur" - nad                 | M                               |
+| Le liver est sous la table.                                   |           | sauvage -dziki       | "sous" -pod                  | M                               |
+| "Le crayon est sur le sol."                                   |           | maître               | "sol" -podłaga               | F                               |
+|                                                               |           | Voyez-vous -see      |                              |                                 |
 | Je vous donne le livre.                                       |           |                      | "donne" -daję                |                                 |
 | Voilà un crayon rouge! Voilà un crayon blanc! Comprenez-vous? |           |                      | "blanc" -black (blą)         | le crayon is mascualine so (un) |
 | Voilà un monsieur! Debout, assis                              |           |                      | "assis"- stoi ( umieszczony) |                                 |
@@ -31,8 +31,8 @@ Input method: french-keyboard
 | La grande maison a deux portes. La petite maison a une porte. |           |                      |                              |                                 |
 | Dans la rue?                                                  |           |                      |                              |                                 |
 | Dans la rue Warszawska.                                       |           |                      |                              |                                 |
-|                                                               |           |                      |                              |                                 |
-|                                                               |           |                      |                              |                                 |
+| Il porte un panier sur la tête                                |           |                      | "tête"-głowa panier-koszyk   |                                 |
+|                                                               |           |                      | porte (porter)- nosi         |                                 |
 |                                                               |           |                      |                              |                                 |
 |                                                               |           |                      |                              |                                 |
 |                                                               |           |                      |                              |                                 |
