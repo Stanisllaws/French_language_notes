@@ -33,6 +33,7 @@ Input method: french-keyboard
 | Dans la rue Warszawska.                                       |           |                      |                              |                                 |
 | Il porte un panier sur la tête                                |           |                      | "tête"-głowa panier-koszyk   |                                 |
 |                                                               |           |                      | porte (porter)- nosi         |                                 |
+| J'avoue                                                       |           |                      |                              |                                 |
 |                                                               |           |                      |                              |                                 |
 |                                                               |           |                      |                              |                                 |
 |                                                               |           |                      |                              |                                 |
@@ -41,12 +42,16 @@ Input method: french-keyboard
 |                                                               |           |                      |                              |                                 |
 |                                                               |           |                      |                              |                                 |
 |                                                               |           |                      |                              |                                 |
-|                                                               |           |                      |                              |                                 |
-|                                                               |           |                      |                              |                                 |
-|                                                               |           |                      |                              |                                 |
+|                                                               |           |                      |                              |                                                                                                |           |                      |                              |                                 |
 
 
-J'avoue.
+
+|                          |   |
+|--------------------------+---|
+| Je cherche les toilettes |   |
+| à plus tard              |   |
+|                          |   |
+|                          |   |
 
 
 
